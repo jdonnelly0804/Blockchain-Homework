@@ -8,7 +8,7 @@ This streamlit application was build to simulate transactions that would occur o
 ---
 This shows the ledger that was created with 5 different transactions that I input:
 >
-![ledger](Instructions/Images/Blockchain.png)
+![ledger](Instructions/Images/Blockchain.PNG)
 
 
 ---
